@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anselmina.github.io/teiskoseura/joulu/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/joulu/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/seura/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/seura/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/museo/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/museo/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/liity/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/liity/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/tuotteet/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/tuotteet/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/historia/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/historia/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/museonhistoria/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/museonhistoria/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/paarakennus/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/paarakennus/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/categories/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/tags/plot/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/post/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/categories/r/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/tags/r-markdown/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/tags/regression/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/tags/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://anselmina.github.io/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/kokoelmat/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/lehti/vanhatlehdet/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
-  </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/muutrakennukset/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
     <loc>https://anselmina.github.io/teiskoseura/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/kokoelmat/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url><url>
-    <loc>https://anselmina.github.io/teiskoseura/lehti/lehdenhistoria/</loc>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/lehti/vanhatlehdet/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/muutrakennukset/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url><url>
+    <loc>https://anselmina.github.io/teiskoseura/teiskoseura/lehti/lehdenhistoria/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
 </urlset>
