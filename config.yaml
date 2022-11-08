@@ -1,0 +1,59 @@
+baseurl: https://example.org/
+title: Teisko-Seura
+theme: hugo-creative-portfolio-theme
+languageCode: fi
+disqusShortname: ''
+googleAnalytics: ''
+params:
+  copyright: '&copy;2022 Teisko-Seura ry'
+  description: Describe your website
+  email: you@yoursite.com
+  navlinks:
+    - home: yes
+      name: Etusivu
+      url: teiskoseura/
+    - name: Seura
+      url: teiskoseura/seura/
+    - sublink: yes
+      name: Seuran historia
+      url: teiskoseura/historia/
+    - sublink: yes
+      name: Seuran toiminta
+      url: teiskoseura/seura/
+    - sublink: yes
+      name: Liity seuraan
+      url: teiskoseura/liity/
+    - sublink: yes
+      name: Myyntituotteet
+      url: teiskoseura/tuotteet/      
+    - name: Teiskon Museo
+      url: teiskoseura/museo/
+    - sublink: yes
+      name: Museon historiaa
+      url: teiskoseura/museonhistoria/
+    - sublink: yes
+      name: Päärakennus
+      url: teiskoseura/paarakennus/
+    - sublink: yes
+      name: Muut rakennukset
+      url: teiskoseura/muutrakennukset/
+    - sublink: yes
+      name: Kokoelmat ja näyttelyt
+      url: teiskoseura/kokoelmat/
+    - name: Joulu
+      url: teiskoseura/joulu/
+    - sublink: yes
+      name: Lehden historia
+      url: teiskoseura/lehti/lehdenhistoria/
+    - sublink: yes
+      name: Teiskon Joulu 1956-2021
+      url: teiskoseura/lehti/vanhatlehdet/
+    - sublink: yes
+      name: Teiskon Joulu 2022
+      url: teiskoseura/joulu
+  sidebarAbout:
+    - Teisko-Seura on Teiskon kotiseutuyhdistys. 
+  social:
+    email: teisko.seura@teisko.fi
+    instagram: https://www.instagram.com/teiskonmuseo/
+  style: green
