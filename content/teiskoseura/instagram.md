@@ -1,7 +1,7 @@
 ---
 date: "2016-11-05T19:56:17+05:30"
 draft: false
-image: "teiskoseura/img/talkoot.png"
+image: img/talkoot.png
 showonlyimage: true
 title: Instagram
 weight: 10
