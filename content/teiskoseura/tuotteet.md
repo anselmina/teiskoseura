@@ -16,7 +16,7 @@ Merkitse sähköpostitilaukseen tuotteet ja kappalemäärät sekä yhteystietosi
 Postitse lähetettyihin tuotteisiin lisätään postikulut.
 Pankkiyhteys: FI55 4762 0010 0419 60.
 
-![plot](/img/viiri2.png)
+![plot](/teiskoseura/img/viiri2.png)
 
 #### Teiskon viiri
 

@@ -19,5 +19,5 @@ Lumiaikaan lehtien toimitus saattaa viivästyä, koska lehdet sijaitsevat museol
 |       |  |   |
 | ----------- | ----------- |----------- |
 |       |        |        |
-| ![plot](/img/malli1.jpg)  | ![plot](/img/malli2.jpg)    |  ![plot](/img/malli3.jpg)   |
+| ![plot](/teiskoseura/img/malli1.jpg)  | ![plot](/teiskoseura/img/malli2.jpg)    |  ![plot](/teiskoseura/img/malli3.jpg)   |
 

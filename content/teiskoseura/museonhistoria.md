@@ -10,7 +10,7 @@ Teisko-Seuran yhtenä tavoitteena alusta saakka oli oman museon perustaminen. Mu
 
 Ensimmäiset vuodet museo toimi hajasijoitettuna: ensimmäisestä varsinaisesta museorakennuksesta kirjoitettiin lahjakirja 1957, ja niin siirtyi Kalmakurjen koskessa oleva ”Lahhoon mylly” seuran hallintaan museoimista varten. Kuutta vuotta myöhemmin osti seura myllärin pirtin ja jo sitä ennen oli yhteistoiminnassa seurakunnan kanssa rakennettu pieni rantamuseo Tapulilahden rannalle, josta seurakunnan omistama Peräkunta-kirkkovene ja Teisko-Seuran Näsijärvi-mallinen nuottakota ja ranta-aitta saivat sijoituspaikan.
 
-![plot](/img/museorikki.jpg)
+![plot](/teiskoseura/img/museorikki.jpg)
 
 Vuosina 1966-1968 seuran toiminta keskittyi museohankkeen kypsyttelyyn, esineistön ja valokuva-arkiston kartuttamiseen sekä varojen keruuseen museosuunnitelman toteuttamista varten. Museoesineistön luettelointi tehtiin 1969 ja silloin esineitten säilytyspaikaksi saatiin Teiskon Manttaalisäätiön omistama entinen lainamakasiini.
 
@@ -27,4 +27,4 @@ Vuonna 1995 saatiin viimeinkin ison tien varteen Teiskon Museo -kyltti, ja Teisk
 Vuodesta 2012 alkaen Teiskon Museon esineistöä on valokuvattu ja esineluetteloa on digitalisoitu Tampereen kaupungin museoiden Siiri-tietokantaan.
 Teiskon Museo vietti 40-vuotisjuhliaan vuonna 2015. Samalla juhlittiin Teisko-Seuran 60-vuotispäiviä, Teiskon Joulun 60:ttä ilmestymisvuotta ja Teiskon kunnan perustamisen 150-vuotispävää.
 
-![plot](/img/museo.png)
+![plot](/teiskoseura/img/museo.png)
