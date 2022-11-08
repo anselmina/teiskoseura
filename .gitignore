@@ -10,3 +10,10 @@ teiskoseura.Rproj
 .Rproj.user/72363E2B/sources/s-D5CCCA13/lock_file
 .Rproj.user/shared/notebooks/patch-chunk-names
 .Rprofile
+*.Rproj
+*.pper
+.Rhistory
+.Rprofile
+*.pper
+.Rproj.user/72363E2B/sources/s-D5CCCA13/2F4EFEE0
+.Rproj.user/72363E2B/sources/s-D5CCCA13/2F4EFEE0-contents
