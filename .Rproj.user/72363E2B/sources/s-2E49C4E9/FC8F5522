@@ -3,7 +3,7 @@
     "path": "C:/git/teiskoseura/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html",
     "project_path": "themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html",
     "type": "html",
-    "hash": "0",
+    "hash": "3880962174",
     "contents": "",
     "dirty": false,
     "created": 1667950836754.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "17,79",
-        "scrollLine": "13"
+        "cursorPosition": "46,85",
+        "scrollLine": "41"
     },
     "folds": "",
-    "lastKnownWriteTime": 1667951116,
+    "lastKnownWriteTime": 1668033900,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1667951116740,
+    "last_content_update": 1668033900953,
     "read_only": false,
     "read_only_alternatives": []
 }
