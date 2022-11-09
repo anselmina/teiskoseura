@@ -44,7 +44,7 @@
                                 {{ if .Params.custom_details }}
                                                                  <p>  Teiskon Museo, Teiskon kirkkotie 139, Terälahti <br>
                                  
-     <a href="mailto:teisko.seura@teisko.fi">&#128231 teisko.seura@teisko.fi</a> <br>  <a href="tel:0406106660">  &#128381 040 610 6660
+     <a href="mailto:teisko.seura@teisko.fi"> &#128231 teisko.seura@teisko.fi </a> <br>  <a href="tel:0406106660">  &#128381 040 610 6660
       </a> <br> (museon aukioloaikoina) <br>
       Postiosoitteet sivulla <a href="seura/">toiminta. </p>
                                  <p>  <a href="mailto:sirpa.aulamo@gmail.com">&#128231</a>
