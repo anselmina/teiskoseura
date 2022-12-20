@@ -11,13 +11,11 @@ summary: Teiskon Joulun vanhoja numeroita on saatavana hintaan 2 euroa. Postin k
 Teiskon Joulun vanhoja numeroita on saatavana hintaan 2 euroa. Postin kautta lähetettäviin lehtiin lisätään postimaksu.
 Kysy hallituksen jäseniltä, hae kesällä museolta tai tilaa sähköpostilla: teisko.seura@teisko.fi.
 
-Katso myös muut [myyntituotteet](../tuotteet/).
+Katso myös muut [myyntituotteet](.../tuotteet/).
 
 Lehden numerot 1958,1960, 1962, 1974 ja 1980  on myyty loppuun, artikkeleista saa halutessaan kopion.
 Lumiaikaan lehtien toimitus saattaa viivästyä, koska lehdet sijaitsevat museolla, jonne ei tietä aurata talvella.
 
-|       |  |   |
-| ----------- | ----------- |----------- |
-|       |        |        |
-| ![plot](/teiskoseura/img/malli1.jpg)  | ![plot](/teiskoseura/img/malli2.jpg)    |  ![plot](/teiskoseura/img/malli3.jpg)   |
+
+| ![plot](/teiskoseura/img/vanhatjoulut.png)  
 

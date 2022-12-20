@@ -5,37 +5,15 @@ image: img/talvikuva.jpg
 showonlyimage: false
 title: Teiskon Joulu
 weight: 1
-summary: Seuraava joululehti ilmestyy marras-joulukuun vaihteessa 2022.
+summary: Teiskon joulu 2022 on ilmestynyt
 ---
 
-##### Kirjoittajat!
+##### Teiskon Joulu 2022
 
-Osallistu lehden tekemiseen ja lähetä kirjoituksesi Teisko-Seuralle. Aihe voi olla jouluinen, mutta se ei ole sääntö: kaikki kertomukset, tarinat, muistelmat, tapahtumakuvaukset ja runot ovat tervetulleita. Sen verran paikallisuutta kuitenkin lehteen halutaan, että kirjoitukset, kuvat tai kirjoittaja saisi liittyä jollain sidoksella Teiskoon.
-Teksti voi olla lyhyt tai pitkä - toimitus lyhentää, jos se on tarpeen. Toimitus myös oikolukee tekstin, joten lyönti- tai muita virheitä ei kannata pelätä.
+Lehti on myynnissä Teiskossa Terälahdessa Salessa, Teisko Tuottessa ja Aitassa, Kämmenniemessä Salessa ja Joulupuodissa, Viitapohjassa Liutun Maalaistalossa, Aitolahdella K-Marketissa ja Teboililla sekä Tampereen keskustassa Sokoksella.
 
-Myös juttuun liittyvät valokuvat tai piirrokset otetaan mielellään vastaan, ja paperikuvat palautetaan pyynnöstä lähettäjälle käytön jälkeen.
+Ja jos ei ihan näille kulmille pysty poikkeamaan, voi joululehden tilata sähköpostilla osoitteesta teisko.seura@teisko.fi. Lehden hinta on 8 euroa. Postitse lähetettäviin lisätään postimaksu, joka yhdestä lehdestä on 4,20 euroa. Ulkomaille hiukan enemmän.
 
+Katso myös ohjeet myös tiedot tulevan vuoden [2023 lehdelle.](../lehti/ennenjoulua)
 
-##### Kuvaajat!
-
-Teiskon Jouluun etsitään joka vuosi neljää jouluista tai talvista kansikuvaa. Lähetä kuva - aihe on vapaa, kunhan on Teiskossa tai teiskolainen. Kansikuva on yleensä ollut joulunpunasävyinen:)
-Mukaan tiedot kuvaajasta ja kohteesta!
-Toimituskunta valitsee julkaistavat tekstit ja kuvat lähetettyjen joukosta tasapainoisesti lehden tarpeiden mukaan. Käyttämättömät kuvat ja tekstit siirtyvät vuoden 2021 lehden aineistoksi, ellei tekijä toisin toivo. Kuvista ja jutuista ei makseta palkkiota.
-
-Osoitteet
-Lehteen tulevan teksti- ja kuvamateriaalin toivotaan olevan perillä lokakuun loppuun mennessä joko sähköpostitse, osoitteella teisko.seura@teisko.fi, tai postissa: Leena Tulivirta, Tapoonlahdenkuja 1 A 1, 34240 Kämmenniemi.
-
-##### Joulutervehdykset!
-
-Joulutervehdyksensä Teiskon Jouluun viime vuonna antaneisiin yrityksiin ja yhdistyksiin otetaan yhteyttä syksyn mittaan. Mikäli yrityksesi tai yhdistyksesi ei ole aiemmin ilmoitusta lehteen laittanut, ja haluaa sen tehdä nyt - ota yhteyttä! Ilmoitushinnat ovat :
-1/1 sivu, 16 x 26 mm      150 euroa
-2/3 sivu, 16 x 16 mm      110 euroa
-1/2 sivu, 16 x 13 mm        90 euroa
-1/3 sivu, 16 x 9 mm         75 euroa
-1/4 sivu, 8 x 12 mm         50 euroa
-1/8 sivu  8 x 6 mm           30 euroa.
-
-
-Kannatusilmoitukset voi lähettää suoraan osoitteella jari@teiskotuote.fi, josta saa myös apua ilmoituksen laatimiseen.
- 
-Teisko-Seura ry.
+![plot](/teiskoseura/img/joulu2022.png) 
