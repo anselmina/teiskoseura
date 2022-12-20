@@ -16,4 +16,4 @@ Ja jos ei ihan näille kulmille pysty poikkeamaan, voi joululehden tilata sähk�
 
 Katso myös ohjeet myös tiedot tulevan vuoden [2023 lehdelle.](../lehti/ennenjoulua)
 
-![plot](/teiskoseura/img/joulu2022.png) 
+![plot](teiskoseura/img/joulu2022.png) 
