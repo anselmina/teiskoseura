@@ -14,6 +14,6 @@ Lehti on myynnissä Teiskossa Terälahdessa Salessa, Teisko Tuottessa ja Aitassa
 
 Ja jos ei ihan näille kulmille pysty poikkeamaan, voi joululehden tilata sähköpostilla osoitteesta teisko.seura@teisko.fi. Lehden hinta on 8 euroa. Postitse lähetettäviin lisätään postimaksu, joka yhdestä lehdestä on 4,20 euroa. Ulkomaille hiukan enemmän.
 
-Katso myös ohjeet myös tiedot tulevan vuoden [2023 lehdelle.](../lehti/ennenjoulua)
+Katso myös tiedot tulevan vuoden [2023 lehdelle.](../lehti/ennenjoulua)
 
-![plot](teiskoseura/img/joulu2022.png) 
+![plot](../../img/joulu2022.png) 

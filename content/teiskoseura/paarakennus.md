@@ -10,7 +10,7 @@ Description: Päärakennus, aitat, pirtit, korsu ja muuta mielenkiintoista..
 weight: 7
 ---
 
-![plot](/teiskoseura/img/museo.png)
+![plot](../../img/museo.png)
 
 Museon päärakennus edustaa keskiaikaista, Italiasta lähtöisin olevaa rakennustyyliä, joka ajoittuu Kaarle-kuninkaiden aikaan. Sitä kutsuttiin karoliiniseksi tyyliksi.
 
@@ -19,7 +19,7 @@ Museon päärakennus on valmistunut 1700-luvun loppupuolella. Se on oletettavast
 
 Museon päärakennukseen käydään sisään valoisan kuistin sekä pitkän poikkisuuntaisen eteisen kautta. Suoraan edessä avautuu kaunis sali, jonka pitkän pöydän ääressä asukkaat ovat aterioineet. Pytingin molemmissa päissä on kaksi kamaria, joista toinen on käyttökeittiönä. Siellä on esillä kaikenlaista talouteen liittyvää tavaraa, astioita, isoja ja pieniä kuparipannuja, silitysrautoja jne.
 
-![plot](/teiskoseura/img/museosisa.png)
+![plot](../../img/museosisa.png)
 
 Talon kolmessa kamarissa on jokaisella oma asukkaansa. Keittiön vieressä on vanhan emännän kamari, jossa emäntä on hyrisyttänyt rukkia, kuunnellut kidekoneella uutisia tai vaikka lueskellut illan hämyssä. Vanhan emännän kamarissa oleva uuni on valmistettu Länsi-Teiskossa, Hannun kylässä, olleen kaakelitehtaan kaakeleista.
 Nuoren emännän kamarissa on nukutettu lasta kehdossa, peilailtu piirongin kauniista peilistä, tai järjestelty liinavaatteita kaappiin...

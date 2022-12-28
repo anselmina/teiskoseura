@@ -13,7 +13,7 @@ Vuonna 2005 tehtiin Teiskon Joulu –lehden 50. vuosikerta. Lehden toimitusaika 
 
 Ensimmäisen Teiskon Joulun lukijoita toimitus tervehtii pääkirjoituksella, jonka lopusta voi lukea ilmeisesti päätoimittaja Sulho Mikolan kirjoittamat lauseet: ”Nyt esittäytyvä Teiskon Joulu liittyy uutena renkaana Teisko-Seuran toimintaan. Jos ehkä nuoruuden kokemattomuus haitanneekin lehteämme, niin toivomme iän mukana karttuvan tietoa ja viisautta.”
 
-![plot](/teiskoseura/img/ekansi56.jpg) 		
+![plot](../../../img/ekansi56.jpg) 		
 
 Lehden kannet eivät ole vuosien saatossa noudattaneet selvää linjaa: talvisten maisema- ja rakennuskuvien sekä joulun ajan aiheisiin liittyvien valokuvien ohessa nähtävänä on ollut myös kesäistä järvenpintaa, ryhmäkuvia kuoroista ja yhdistyksistä sekä muutama lapsi- ja eläinaihe. Mainittava on myös vuoden 1971 kansikuva, joka ilmeisesti seuraavana vuonna tapahtuvan kuntaliitoksen innoittamana oli Teiskon vaakuna.
 Mielenkiintoinen kansikuvasarja oli pääasiallisesti 1960-luvulle sijoittuva reportaasinomainen perinnetöitä ja -tilaisuuksia kuvaava kokonaisuus, jossa nähdään otteita menneen ajan joulun valmistelusta leipomisineen, saunomisineen, aterioineen ja leikkeineen.
@@ -28,4 +28,4 @@ Yksi kotiseututyön tehtävistä on perinteen säilyttäminen, joten Teiskon Jou
 |       |  |   |
 | ----------- | ----------- |----------- |
 |       |        |        |
-| ![plot](/teiskoseura/img/malli1.jpg)  | ![plot](/teiskoseura/img/malli2.jpg)    |  ![plot](/teiskoseura/img/malli3.jpg)   |
+| ![plot](../../../img/malli1.jpg)  | ![plot](../../../img/malli2.jpg)    |  ![plot](../../../img/malli3.jpg)   |
