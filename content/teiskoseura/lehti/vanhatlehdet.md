@@ -17,5 +17,5 @@ Lehden numerot 1958,1960, 1962, 1974 ja 1980  on myyty loppuun, artikkeleista sa
 Lumiaikaan lehtien toimitus saattaa viivästyä, koska lehdet sijaitsevat museolla, jonne ei tietä aurata talvella.
 
 
-| ![plot](../../img/vanhatjoulut.png)  
+![plot](../img/vanhatjoulut.png)  
 
