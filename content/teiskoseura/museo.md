@@ -5,14 +5,14 @@ image: img/museo.png
 showonlyimage: false
 title: Museo
 weight: 1
-description: Museo on avoinna 15.6.–14.8.2022 keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00. Nähtävänä kotiseutumuseon pysyvä näyttely sekä kesän teemanäyttely Neuloilla, nauloilla, puikoilla ja puukoilla.
+description: Museo on avoinna 14.6.-17.8.2023 keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00. Nähtävänä kotiseutumuseon pysyvä näyttely sekä kesän teemanäyttely.
 special_title: true
 summary:  Ajankohtaista
 ---
 
-Museo on avoinna 15.6.–14.8.2022 keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00.
+Museo on avoinna 14.6.-17.8.2023 keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00.
 
-Nähtävänä kotiseutumuseon pysyvä näyttely sekä  kesän teemanäyttely: Neuloilla, nauloilla, puikoilla ja puukoilla.
+Nähtävänä kotiseutumuseon pysyvä näyttely sekä  kesän teemanäyttely.
 
 Pääsymaksut (ei Tampereen päivänä):
 - aikuiset 2 €, lapset (7-15 v.) 1 €,

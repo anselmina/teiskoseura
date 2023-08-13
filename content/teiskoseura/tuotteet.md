@@ -20,10 +20,8 @@ Pankkiyhteys: FI55 4762 0010 0419 60.
 
 #### Teiskon viiri
 
-veneviiri 30,00 € (22 x 44 cm)
-pöytäviiri (standaari), 35,00 €
-tankoviiri (9 m  tankoon) 45,00 €
-tankoviiri (12 m tankoon), 50,00 €.
+Tankoviiri (9 m  tankoon) 45,00 €
+
 Teiskon viirejä myynnissä myös Teiskon Museolla ja Teisko Tuotteessa Terälahdessa. Postitilaukset: Sirpa Aulamo, [p.040 596 0530](tel:0405960530), [sirpa.aulamo@gmail.com](mailto:sirpa.aulamo@gmail.com).
 
 #### Teisko-kirja, 25 € (postimaksu painon mukaan, 1 kirja 6 €).
