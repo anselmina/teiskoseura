@@ -1,5 +1,5 @@
 ---
-  date: "2016-11-05T19:59:22+05:30"
+date: "2016-11-05T19:59:22+05:30"
 draft: false
 image: img/talvikuva.jpg
 showonlyimage: false
@@ -20,7 +20,8 @@ Myös juttuun liittyvät valokuvat tai piirrokset otetaan mielellään vastaan, 
 
 Teiskon Jouluun etsitään joka vuosi neljää jouluista tai talvista kansikuvaa. Lähetä kuva - aihe on vapaa, kunhan on Teiskossa tai teiskolainen. Kansikuva on yleensä ollut joulunpunasävyinen:)
 Mukaan tiedot kuvaajasta ja kohteesta!
-  Toimituskunta valitsee julkaistavat tekstit ja kuvat lähetettyjen joukosta tasapainoisesti lehden tarpeiden mukaan. Käyttämättömät kuvat ja tekstit siirtyvät vuoden 2024 lehden aineistoksi, ellei tekijä toisin toivo. Kuvista ja jutuista ei makseta palkkiota.
+
+Toimituskunta valitsee julkaistavat tekstit ja kuvat lähetettyjen joukosta tasapainoisesti lehden tarpeiden mukaan. Käyttämättömät kuvat ja tekstit siirtyvät vuoden 2024 lehden aineistoksi, ellei tekijä toisin toivo. Kuvista ja jutuista ei makseta palkkiota.
 
 Osoitteet
 Lehteen tulevan teksti- ja kuvamateriaalin toivotaan olevan perillä lokakuun loppuun mennessä joko sähköpostitse, osoitteella teisko.seura@teisko.fi, tai postissa: Leena Tulivirta, Tapoonlahdenkuja 1 A 1, 34240 Kämmenniemi.

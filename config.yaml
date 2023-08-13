@@ -46,10 +46,10 @@ params:
       name: Lehden historia
       url: teiskoseura/lehti/lehdenhistoria/
     - sublink: yes
-      name: Teiskon Joulu 1956-2021
+      name: Teiskon Joulu 1956-2022
       url: teiskoseura/lehti/vanhatlehdet/
     - sublink: yes
-      name: Teiskon Joulu 2022
+      name: Teiskon Joulu 2023
       url: teiskoseura/joulu
   sidebarAbout:
     - Teisko-Seura on Teiskon kotiseutuyhdistys. 
