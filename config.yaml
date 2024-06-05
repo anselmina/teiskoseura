@@ -1,4 +1,4 @@
-baseurl: https://anselmina.github.io/teiskoseura/
+baseurl: https://www.teisko.fi/
 title: Teisko-Seura
 theme: hugo-creative-portfolio-theme
 languageCode: fi
@@ -49,7 +49,7 @@ params:
       name: Teiskon Joulu 1956-2022
       url: teiskoseura/lehti/vanhatlehdet/
     - sublink: yes
-      name: Teiskon Joulu 2023
+      name: Teiskon Joulu 2024
       url: teiskoseura/joulu
   sidebarAbout:
     - Teisko-Seura on Teiskon kotiseutuyhdistys. 

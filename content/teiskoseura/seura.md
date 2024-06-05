@@ -12,7 +12,7 @@ Description:  Sirpa Aulamo, puheenjohtaja, p. 040 596 0530, Sirpa.Aulamo@gmail.c
 
  Leena Tulivirta, sihteeri, p. 044 304 1108, leena.tulivirta@kolumbus.fi. 
  
- Teiskon Museo, Teiskon kirkkotie 139, Terälahti, p.  040 610 6660 (museon aukioloaikoina, postiosoitteet sivulla toiminta).
+ Teiskon Museo, Teiskon kirkkotie 139, Terälahti, p. 040 667 4310  (museon aukioloaikoina, postiosoitteet sivulla toiminta).
 
 ---
 
