@@ -5,7 +5,7 @@ image: ""
 special_title: true
 showonlyimage: false
 title: Seuran toiminta
-weight: 1
+weight: 2
 Summary: Yhteystiedot
 custom_details: true
 Description:  Sirpa Aulamo, puheenjohtaja, p. 040 596 0530, Sirpa.Aulamo@gmail.com. 

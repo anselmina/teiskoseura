@@ -28,14 +28,6 @@ Lehteen tulevan teksti- ja kuvamateriaalin toivotaan olevan perillä lokakuun lo
 
 ##### Joulutervehdykset!
 
-Joulutervehdyksensä Teiskon Jouluun viime vuonna antaneisiin yrityksiin ja yhdistyksiin otetaan yhteyttä syksyn mittaan. Mikäli yrityksesi tai yhdistyksesi ei ole aiemmin ilmoitusta lehteen laittanut, ja haluaa sen tehdä nyt - ota yhteyttä! Ilmoitushinnat ovat :
-  |          |     |  |
-  |--------------------|----------------|------------|
-  | 1/1 sivu    &nbsp;   &nbsp; &nbsp;    | 16 x 26 mm   &nbsp;&nbsp; &nbsp; | 150 €      |
-  | 2/3 sivu           | 16 x 16 mm     | 110 €      |
-  | 1/2 sivu           | 16 x 13 mm     | 90 €       |
-  | 1/3 sivu           | 16 x 9 mm      | 75 €       |
-  | 1/4 sivu           | 8 x 12 mm      | 50 €       |
-  | 1/8 sivu           | 8 x 6 mm       | 30 €       |
-  
-  Kannatusilmoitukset voi lähettää suoraan osoitteella jari@teiskotuote.fi, josta saa myös apua ilmoituksen laatimiseen.
+Joulutervehdyksensä Teiskon Jouluun viime vuonna antaneisiin yrityksiin ja yhdistyksiin otetaan yhteyttä syksyn mittaan. Mikäli yrityksesi tai yhdistyksesi ei ole aiemmin ilmoitusta lehteen laittanut, ja haluaa sen tehdä nyt - ota yhteyttä! 
+
+Kannatusilmoitukset voi lähettää suoraan osoitteella jari@teiskotuote.fi, josta saa myös apua ilmoituksen laatimiseen.
