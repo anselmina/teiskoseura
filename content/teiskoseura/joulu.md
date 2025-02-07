@@ -5,6 +5,7 @@ image: img/joulu2024.jpg
 showonlyimage: false
 title: Teiskon Joulu
 weight: 1
+dont_include: true
 summary: Teiskon joulu 2024 on ilmestynyt.
 ---
   

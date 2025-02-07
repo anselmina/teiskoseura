@@ -22,8 +22,8 @@ Pankkiyhteys: FI55 4762 0010 0419 60.
 
 |               |       |
 |-------------------------------|------------|
-| tankoviiri (9 m  tankoon)   | 50€    |
-| tankoviiri (12 m  tankoon)   &nbsp; &nbsp; |  100€   |
+| tankoviiri (9 m  tankoon)   &nbsp; - | 50€    |
+| tankoviiri (12 m  tankoon)   &nbsp; - &nbsp;  |  100€   |
 
 
 Teiskon viirejä myynnissä myös Teiskon Museolla ja Teisko Tuotteessa Terälahdessa. Postitilaukset: Sirpa Aulamo, [p.040 596 0530](tel:0405960530), [sirpa.aulamo@gmail.com](mailto:sirpa.aulamo@gmail.com).
@@ -32,6 +32,6 @@ Teiskon viirejä myynnissä myös Teiskon Museolla ja Teisko Tuotteessa Terälah
 Tampereen kaupunginosakirjasarjaan kuuluva kirja Teiskosta ja teiskolaisista: Ulkomaille Teiskoon, 260 sivua. Kirjoittanut Sirkku Somero.
 Myynnissä myös Teisko Tuotteessa Terälahdessa, Aitolahden Teboililla ja Tampere-Seuran myymälässä (Kauppakatu 1).
 
-#### Teiskon Joulun numerot 1956–2018 
+#### Teiskon Joulun numerot 1956–2024 
 
 (numerot 1958,1960, 1962, 1974, 1980 vain artikkelikopioina), 2 €/kpl. Kopiot 20–50 snt/kpl.

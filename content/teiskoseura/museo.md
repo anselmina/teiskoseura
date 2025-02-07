@@ -5,14 +5,14 @@ image: img/museo.png
 showonlyimage: false
 title: Museo
 weight: 1
-description: Museo on avoinna 13.6.–15.8.2024 keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00. Nähtävänä kotiseutumuseon pysyvä näyttely sekä kesän teemanäyttely Puun polkuja - Teiskossa ja taipaleella.
+description: Museo on avoinna 15.6.–11.8.2025 keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00. Nähtävänä kotiseutumuseon pysyvä näyttely sekä kesän teemanäyttely Puun polkuja - Teiskossa ja taipaleella.
 special_title: true
 summary:  Ajankohtaista
 ---
 
-Museo on avoinna 13.6.–15.8.2024 keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00. 
+Museo on avoinna 15.6.–11.8.2025 keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00. 
 
-Nähtävänä kotiseutumuseon pysyvä näyttely sekä kesän teemanäyttely Puun polkuja - Teiskossa ja taipaleella.
+Nähtävänä kotiseutumuseon pysyvä näyttely sekä vaihtuva kesän teemanäyttely.
 
 Pääsymaksut (ei Tampereen päivänä):
 - aikuiset 2 €, lapset (7-15 v.) 1 €,

@@ -4,9 +4,9 @@ draft: false
 image: img/talvikuva.jpg
 showonlyimage: false
 title: Teiskon Joulu
-weight: 1
+weight: 10
 dont_include: true
-summary: Seuraava joululehti ilmestyy marras-joulukuun vaihteessa 2024.
+summary: Seuraava joululehti ilmestyy marras-joulukuun vaihteessa 2025.
 ---
 
 ##### Kirjoittajat!
