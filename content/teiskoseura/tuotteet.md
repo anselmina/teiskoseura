@@ -22,8 +22,8 @@ Pankkiyhteys: FI55 4762 0010 0419 60.
 
 |               |       |
 |-------------------------------|------------|
-| tankoviiri (9 m  tankoon)   &nbsp; - | 50€    |
-| tankoviiri (12 m  tankoon)   &nbsp; - &nbsp;  |  100€   |
+| tankoviiri (9 m  tankoon)   &nbsp; - | 50 €    |
+| tankoviiri (12 m  tankoon)   &nbsp; - &nbsp;  |  100 €   |
 
 
 Teiskon viirejä myynnissä myös Teiskon Museolla ja Teisko Tuotteessa Terälahdessa. Postitilaukset: Sirpa Aulamo, [p.040 596 0530](tel:0405960530), [sirpa.aulamo@gmail.com](mailto:sirpa.aulamo@gmail.com).
