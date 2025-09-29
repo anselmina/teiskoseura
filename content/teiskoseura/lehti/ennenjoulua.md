@@ -4,8 +4,8 @@ draft: false
 image: img/talvikuva.jpg
 showonlyimage: false
 title: Teiskon Joulu
-weight: 10
-dont_include: true
+weight: 1
+dont_include: false
 summary: Seuraava joululehti ilmestyy marras-joulukuun vaihteessa 2025.
 ---
 
@@ -24,7 +24,7 @@ Mukaan tiedot kuvaajasta ja kohteesta!
 Toimituskunta valitsee julkaistavat tekstit ja kuvat lähetettyjen joukosta tasapainoisesti lehden tarpeiden mukaan. Käyttämättömät kuvat ja tekstit siirtyvät seuraavan vuoden lehden aineistoksi, ellei tekijä toisin toivo. Kuvista ja jutuista ei makseta palkkiota.
 
 Osoitteet
-Lehteen tulevan teksti- ja kuvamateriaalin toivotaan olevan perillä lokakuun loppuun mennessä joko sähköpostitse, osoitteella teisko.seura@teisko.fi, tai postissa: Leena Tulivirta, Tapoonlahdenkuja 1 A 1, 34240 Kämmenniemi.
+Lehteen tulevan teksti- ja kuvamateriaalin toivotaan olevan perillä syyskuun loppuun mennessä joko sähköpostitse, osoitteella teisko.seura@teisko.fi, tai postissa: Leena Tulivirta, Tapoonlahdenkuja 1 A 1, 34240 Kämmenniemi.
 
 ##### Joulutervehdykset!
 

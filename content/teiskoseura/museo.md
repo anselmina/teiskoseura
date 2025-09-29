@@ -2,10 +2,10 @@
 date: "2016-11-05T19:44:32+05:30"
 draft: false
 image: img/museo.png
-showonlyimage: false
+showonlyimage: true
 title: Museo
-weight: 1
-description: Museo on avoinna 15.6.–11.8.2025 keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00. Nähtävänä kotiseutumuseon pysyvä näyttely sekä kesän teemanäyttely Hyvää Teiskon Joulua jo vuodesta 1956.
+weight: 4
+description: Museo on aukeaa taas kesäkuussa 2026. Nähtävänä kotiseutumuseon pysyvä näyttely sekä kesän teemanäyttely.
 special_title: true
 summary:  Ajankohtaista
 ---
