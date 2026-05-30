@@ -24,13 +24,16 @@
 <link href="https://www.teisko.fi/teiskoseura/index.xml" rel="alternate" type="application/rss+xml" title="Teisko-Seura" />
 
 </head>
+
 <body>
 <div id="all">
 <div class="container-fluid">
 <div class="row row-offcanvas row-offcanvas-left">
 
+<!-- SIDEBAR -->
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
+
     <h1 class="sidebar-heading"><a href="https://www.teisko.fi/">Teisko-Seura</a></h1>
 
     <p class="sidebar-p">Teisko-Seura on Teiskon kotiseutuyhdistys.</p>
@@ -70,56 +73,117 @@
       </a>
     </p>
 
-    <div class="copyright">
-      <p class="credit">
-        &copy;2022 Teisko-Seura ry |
-        Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
-        &amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
-      </p>
+  </div>
+</div>
+
+<!-- MAIN CONTENT -->
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+  <div class="small-navbar visible-xs">
+    <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left">
+      <i class="fa fa-align-left"></i>Menu
+    </button>
+    <h1 class="small-navbar-heading"><a href="https://www.teisko.fi/">Teisko-Seura</a></h1>
+  </div>
+
+  <div class="grid">
+    <div class="row">
+
+      <!-- TILE 1: Liity seuraan -->
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+        <div class="box-masonry">
+          <a href="https://www.teisko.fi/teiskoseura/liity/" class="box-masonry-image with-hover-overlay with-hover-icon">
+            <img src="https://www.teisko.fi/img/museosisa.png" class="img-responsive">
+          </a>
+          <div class="box-masonry-text">
+            <h4><a href="https://www.teisko.fi/teiskoseura/liity/">Liity seuraan</a></h4>
+            <div class="box-masonry-description"><p></p></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TILE 2: Yhteystiedot -->
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+        <div class="box-masonry">
+          <div class="box-masonry-text">
+            <h4><a href="https://www.teisko.fi/teiskoseura/seura/">Yhteystiedot</a></h4>
+            <div class="box-masonry-description">
+              <p>
+                Teiskon Museo, Teiskon kirkkotie 139, Terälahti <br>
+                <a href="mailto:teisko.seura@teisko.fi">teisko.seura@teisko.fi</a> <br>
+                <a href="tel:0413266600">041 32 666 00</a> <br>
+                (museon aukioloaikoina)
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TILE 3: Myyntituotteet -->
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+        <div class="box-masonry">
+          <a href="https://www.teisko.fi/teiskoseura/tuotteet/" class="box-masonry-image with-hover-overlay with-hover-icon">
+            <img src="https://www.teisko.fi/img/tuotteet.png" class="img-responsive">
+          </a>
+          <div class="box-masonry-text">
+            <h4><a href="https://www.teisko.fi/teiskoseura/tuotteet/">Myyntituotteet</a></h4>
+            <div class="box-masonry-description">
+              <p>Teiskon viirit, Teiskon Joulun numerot ja Teiskon kaupunginosakirja.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TILE 4: Museo -->
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+        <div class="box-masonry">
+          <a href="https://www.teisko.fi/teiskoseura/museo/" class="box-masonry-image with-hover-overlay">
+            <img src="https://www.teisko.fi/img/museo.png" class="img-responsive">
+          </a>
+          <div class="box-masonry-text">
+            <h4><a href="https://www.teisko.fi/teiskoseura/museo/">Ajankohtaista</a></h4>
+            <div class="box-masonry-description">
+              <p>
+                Museo aukeaa taas kesäkuussa 2026. Nähtävänä kotiseutumuseon pysyvä näyttely.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TILE 5: Historia -->
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+        <div class="box-masonry">
+          <a href="https://www.teisko.fi/teiskoseura/historia/" class="box-masonry-image with-hover-overlay">
+            <img src="https://www.teisko.fi/img/aitat.png" class="img-responsive">
+          </a>
+          <div class="box-masonry-text">
+            <h4><a href="https://www.teisko.fi/teiskoseura/historia/">Seuran historia</a></h4>
+            <div class="box-masonry-description">
+              <p>Teisko-Seuran historiaa ja taustaa.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TILE 6: Rakennukset -->
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+        <div class="box-masonry">
+          <a href="https://www.teisko.fi/teiskoseura/paarakennus/" class="box-masonry-image with-hover-overlay">
+            <img src="https://www.teisko.fi/img/museosisa2.png" class="img-responsive">
+          </a>
+          <div class="box-masonry-text">
+            <h4><a href="https://www.teisko.fi/teiskoseura/paarakennus/">Rakennukset</a></h4>
+            <div class="box-masonry-description">
+              <p>Museon rakennukset ja historia.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>
 
-<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
-<div class="small-navbar visible-xs">
-  <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left">
-    <i class="fa fa-align-left"></i>Menu
-  </button>
-  <h1 class="small-navbar-heading"><a href="https://www.teisko.fi/">Teisko-Seura</a></h1>
-</div>
-
-<div class="row">
-<div class="col-lg-8">
-<div class="content-column-content">
-
-<h1>Museo</h1>
-
-<p>Museo aukeaa taas kesäkuussa 2026 ja on avoinna keskiviikkoisin, torstaisin ja sunnuntaisin klo 11.00–16.00.</p>
-
-<p>Nähtävänä kotiseutumuseon pysyvä näyttely. Viime vuoden teemanäyttely oli nimeltään Hyvää Teiskon Joulua jo vuodesta 1956.</p>
-
-<p>Pääsymaksut (ei Tampereen päivänä):</p>
-
-<ul>
-<li>aikuiset 2 €, lapset (7-15 v.) 1 €,</li>
-<li>alle kouluikäisiltä ei pääsymaksua</li>
-<li>ryhmähinnat (20 tai enemmän) 1 €/hlö.</li>
-</ul>
-
-<h4>Yhteydenotot</h4>
-
-<p>S-posti: <a href="mailto:teisko.seura@teisko.fi">teisko.seura@teisko.fi</a></p>
-
-<p>Teiskon Museo/opas, kesäaikaan
-<a href="tel:0413266600">041 32 666 00</a></p>
-
-<p>Sirpa Aulamo, pj <a href="tel:0405960530">p.040 596 0530</a></p>
-
-</div>
-</div>
-</div>
-
-</div>
 </div>
 </div>
 </div>
